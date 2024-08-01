@@ -70,6 +70,12 @@
                     <span>Charts</span></a>
             </li>
 
+            <li class="nav-item">
+                <a class="nav-link" href="/login">
+                    <i class="fas fa-fw fa-chart-area"></i>
+                    <span>login</span></a>
+            </li>
+
             <!-- Nav Item - Tables -->
             <li class="nav-item">
                 <a class="nav-link" href="/tables">
